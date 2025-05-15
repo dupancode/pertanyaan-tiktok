@@ -1,1 +1,1 @@
-# pertanyaan-tiktok
+Repository ini dibuat sebagai wadah untuk mengumpulkan berbagai pertanyaan yang diajukan oleh followers akun TikTok **Dupan Code**. Isi dari repository ini bersifat **random**, mencakup beragam topik sesuai dengan pertanyaan yang masuk dari komunitas. Tujuan utama repository ini adalah untuk mendokumentasikan, mengorganisir, dan mungkin memberikan jawaban atau solusi terkait pertanyaan-pertanyaan tersebut, sekaligus menjadi referensi bagi followers atau pengguna lain yang tertarik.
